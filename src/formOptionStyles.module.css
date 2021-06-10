@@ -1,0 +1,19 @@
+.division {
+    border: 1px outset red;
+    background-color: lightblue;    
+    text-align: center;
+    display: block;
+    padding: 20px;
+    margin: 20px;
+}
+
+.optionTag {
+    max-width: 20%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 20px;
+    margin: 20px;
+}
